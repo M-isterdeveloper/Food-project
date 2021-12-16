@@ -1,0 +1,8 @@
+#игнорировать node__modules
+node_modules/
+
+#игнорировать вебпак конфиг
+webpack.config.js
+
+#package-lock.json
+package-lock.json
